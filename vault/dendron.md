@@ -79,7 +79,7 @@ This project is about 1% complete, both in the sense that it is in **preview** b
 
 If you are reading this, you too, are now part of the journey. Let's take back control of our information and use it to build something better, together!
 
-## FAQ
+## FAQs
 
 See the [[FAQ|dendron.faq]] for answers for common questions.
 
